@@ -10,5 +10,5 @@ const times = document.querySelector("#times");
 const minus = document.querySelector("#minus");
 const plus = document.querySelector("#plus");
 const equals = document.querySelector("#equals");
-const digit = document.querySelectorAll(".digit");
 const dot = document.querySelector("#dot");
+const digit = document.querySelectorAll(".digit");
